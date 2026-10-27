@@ -2,6 +2,9 @@
     "patches": {
         "drupal/core": {
             "#3531174: Add configuration for additional known files in project root": "https://git.drupalcode.org/issue/drupal-3531174/-/compare/eccc454363a947d3eb71a1ca7fa0e134dce002c0...96208fc1e12b4548c115d02dd80b9cfbd4e5bed7?format=diff"
+        },
+        "drupal/caresphere": {
+            "#3633493: JSON string inputs are no longer compatible with Canvas": "https://git.drupalcode.org/project/caresphere/-/commit/b461a713ef4f5d7ce91626cc44ce0598e574e4d2.patch"
         }
     }
 }
